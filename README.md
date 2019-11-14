@@ -1,1 +1,1 @@
-# SoftwareEngineering
+<h3>Weeks 1 & 2: You will learn the core processes of software development like requirements, design, development etc. You will learn what is involved in each of these processes and what good looks like; particularly, the do's and don'ts for each of these processes.</h3>
