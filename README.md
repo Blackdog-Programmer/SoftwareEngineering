@@ -9,3 +9,5 @@
 ![Client–server model](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Client-server-model.png)\
 [Event-based model](https://onlinelibrary.wiley.com/doi/10.1002/9781118732793.ch4)\
 ![Event-based model](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/The-Event-based-model.png)
+# Software Design
+![Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
