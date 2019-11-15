@@ -50,6 +50,7 @@
  <br/>
  
 ![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
+[Kanban WIP Limits](https://kanbanzone.com/kanban-resources/kanban-wip-limits/)\
 ![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
 ![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)\
 ![Lean Startup](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Lean_Startup.png)\
