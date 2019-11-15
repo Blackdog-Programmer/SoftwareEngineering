@@ -19,3 +19,4 @@
 [erification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
 [Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)
 # Agile
+![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/AgileManifesto.png)
