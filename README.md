@@ -1,5 +1,5 @@
 # Why we need Software Engineering
-
+![Soft Dev Failure](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/WhyWeNeedSoftwareEnginerring.png)
 # Requirement Analysis and Specification
 [Software requirements specification(SRS](https://en.wikipedia.org/wiki/Software_requirements_specification)\
 [How to write a good SRS for your Project](https://www.geeksforgeeks.org/how-to-write-a-good-srs-for-your-project/)
@@ -21,4 +21,4 @@
 [erification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
 [Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)
 # Agile
-![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/AgileManifesto.png)
+![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)
