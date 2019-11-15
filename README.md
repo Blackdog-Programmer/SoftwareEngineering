@@ -7,5 +7,5 @@
 ![layered_architecture.png](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/layered_architecture.png)\
 [Client–server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)\
 ![Client–server model](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Client-server-model.png)\
-[Event-based model](https://onlinelibrary.wiley.com/doi/10.1002/9781118732793.ch4
+[Event-based model](https://onlinelibrary.wiley.com/doi/10.1002/9781118732793.ch4)\
 ![Event-based model](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/The-Event-based-model.png)
