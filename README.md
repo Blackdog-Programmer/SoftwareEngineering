@@ -5,4 +5,5 @@
 ![Blackboard.png](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Blackboard.png)\
 [Layered_architecture](https://dzone.com/articles/layered-architecture-is-good)\
 ![layered_architecture.png](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/layered_architecture.png)\
-[Client–server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+[Client–server model](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)\
+[Event-based model](https://onlinelibrary.wiley.com/doi/10.1002/9781118732793.ch4)
