@@ -1,5 +1,6 @@
 # Requirement Analysis
-[Software requirements specification(SRS)(https://en.wikipedia.org/wiki/Software_requirements_specification)
+[Software requirements specification(SRS](https://en.wikipedia.org/wiki/Software_requirements_specification)\
+[How to write a good SRS for your Project](https://www.geeksforgeeks.org/how-to-write-a-good-srs-for-your-project/)
 # Software Architecture Models
 [Pipe and Filter architectures](https://www.oreilly.com/library/view/software-architecture-with/9781786468529/ch08s04.html)\
 ![Pipe_and_Filter.png](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Pipe_and_Filter.png)\
