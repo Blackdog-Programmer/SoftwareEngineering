@@ -31,7 +31,7 @@
 ![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
 [The Agile Manifesto - 4 Agile Values Explained](https://www.youtube.com/watch?v=rf8Gi2RLKWQ)
   <ol>
-  <li><b>Individuals and interactions over processes and tools></b></li>
+  <li><b>Individuals and interactions over processes and tools</b></li>
   <li><b>Working software over comprehensive documentation</b></li>
   <li><b>Customer collaboration over contract negotiation</b></li>
   <li><b>Responding to change over following a plan</b></li>
