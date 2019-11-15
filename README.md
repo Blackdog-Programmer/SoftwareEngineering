@@ -22,11 +22,21 @@
 ![SpiralModel](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/SpiralModel.png)\
 ![UnifiedProcess](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/UnifiedProcess.png)
 # Software Design
+
+# Testing and Verification
+[Project Cutover](https://www.projectmanagement.com/blog-post/24655/Project-Cutover-A-vital-step-in-Project-Go-Live-)
+
+<ol>
+  <li><a href="https://en.wikipedia.org/wiki/Failover">What is Fail over</a></li>
+  <li><a href="https://www.careerride.com/Oracle-difference-hot-and-cold-backup.aspx">Hot backup vs Cold backup</a></li>
+  <li><a href="https://www.techopedia.com/definition/1036/warm-standby">What is Warm standby</a></li>
+</ol>
+
 [Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
-# Testing
 [Error, Fault and Failure in Software Testing](https://www.testingexcellence.com/error-fault-failure-software-testing/)\
-[erification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
-[Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)
+[Verification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
+[Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)\
+[Phase Gate Process](https://en.wikipedia.org/wiki/Phase-gate_process)
 # Agile Mindset and Models
 [The Agile Manifesto](https://www.drdobbs.com/open-source/the-agile-manifesto/184414755)\
 ![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
@@ -39,6 +49,9 @@
   </ol>
  <br/>
  
- ![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
- ![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
- ![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)
+![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
+[Kanban WIP Limits](https://kanbanzone.com/kanban-resources/kanban-wip-limits/)\
+![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
+![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)\
+![Lean Startup](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Lean_Startup.png)\
+[Agile and Lean Simlarity and Difference](https://twproject.com/blog/lean-agile-differences-similarities/)
