@@ -35,7 +35,8 @@
 [Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
 [Error, Fault and Failure in Software Testing](https://www.testingexcellence.com/error-fault-failure-software-testing/)\
 [erification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
-[Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)
+[Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)\
+[Phase Gate Process](https://en.wikipedia.org/wiki/Phase-gate_process)
 # Agile Mindset and Models
 [The Agile Manifesto](https://www.drdobbs.com/open-source/the-agile-manifesto/184414755)\
 ![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
@@ -51,4 +52,5 @@
 ![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
 ![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
 ![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)\
-![Lean Startup](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Lean_Startup.png)
+![Lean Startup](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Lean_Startup.png)\
+[Agile and Lean Simlarity and Difference]https://twproject.com/blog/lean-agile-differences-similarities/)
