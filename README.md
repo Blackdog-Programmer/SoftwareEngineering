@@ -37,4 +37,5 @@
   <li><b>Customer collaboration over contract negotiation</b></li>
   <li><b>Responding to change over following a plan</b></li>
   </ol>
+ <br/>
  ![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)
