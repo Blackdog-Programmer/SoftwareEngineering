@@ -28,6 +28,7 @@
 [erification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
 [Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)
 # Agile
+[The Agile Manifesto](https://www.drdobbs.com/open-source/the-agile-manifesto/184414755)\
 ![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
 [The Agile Manifesto - 4 Agile Values Explained](https://www.youtube.com/watch?v=rf8Gi2RLKWQ)
   <ol>
