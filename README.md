@@ -24,12 +24,14 @@
 # Software Design
 
 # Testing and Verification
-[Project Cutover](https://www.projectmanagement.com/blog-post/24655/Project-Cutover-A-vital-step-in-Project-Go-Live-)\
+[Project Cutover](https://www.projectmanagement.com/blog-post/24655/Project-Cutover-A-vital-step-in-Project-Go-Live-)
+
 <ol>
   <li>[What is Fail over](https://en.wikipedia.org/wiki/Failover)</li>
   <li>[Hot backup vs Cold backup](hot backup and a cold backup)</li>
   <li>[What is Warm standby](https://www.techopedia.com/definition/1036/warm-standby)</li>
 </ol>
+
 [Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
 [Error, Fault and Failure in Software Testing](https://www.testingexcellence.com/error-fault-failure-software-testing/)\
 [erification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
