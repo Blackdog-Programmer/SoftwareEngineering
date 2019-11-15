@@ -37,7 +37,7 @@
 [Verification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
 [Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)\
 [Phase Gate Process](https://en.wikipedia.org/wiki/Phase-gate_process)
-# Agile Mindset and Models
+# Agile Mindset and Principles
 [The Agile Manifesto](https://www.drdobbs.com/open-source/the-agile-manifesto/184414755)\
 ![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
 [The Agile Manifesto - 4 Agile Values Explained](https://www.youtube.com/watch?v=rf8Gi2RLKWQ)
@@ -49,6 +49,9 @@
   </ol>
  <br/>
  
+ ![AgilePriciples](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgilePriciples_0.png)\
+ ![AgilePriciples](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgilePriciples_1.png)
+ # Agile Process Models
 ![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
 [Kanban WIP Limits](https://kanbanzone.com/kanban-resources/kanban-wip-limits/)\
 ![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
