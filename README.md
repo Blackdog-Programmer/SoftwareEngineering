@@ -27,9 +27,9 @@
 [Project Cutover](https://www.projectmanagement.com/blog-post/24655/Project-Cutover-A-vital-step-in-Project-Go-Live-)
 
 <ol>
-  <li>[What is Fail over](https://en.wikipedia.org/wiki/Failover)</li>
-  <li>[Hot backup vs Cold backup](https://www.careerride.com/Oracle-difference-hot-and-cold-backup.aspx)</li>
-  <li>[What is Warm standby](https://www.techopedia.com/definition/1036/warm-standby)</li>
+  <li><a href="https://en.wikipedia.org/wiki/Failover">What is Fail over</a></li>
+  <li><a href="https://www.careerride.com/Oracle-difference-hot-and-cold-backup.aspx">Hot backup vs Cold backup</a></li>
+  <li><a href="https://www.techopedia.com/definition/1036/warm-standby">What is Warm standby</a></li>
 </ol>
 
 [Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
@@ -54,4 +54,4 @@
 ![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
 ![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)\
 ![Lean Startup](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Lean_Startup.png)\
-[Agile and Lean Simlarity and Difference]https://twproject.com/blog/lean-agile-differences-similarities/)
+[Agile and Lean Simlarity and Difference](https://twproject.com/blog/lean-agile-differences-similarities/)
