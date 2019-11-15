@@ -28,7 +28,7 @@
 
 <ol>
   <li>[What is Fail over](https://en.wikipedia.org/wiki/Failover)</li>
-  <li>[Hot backup vs Cold backup](hot backup and a cold backup)</li>
+  <li>[Hot backup vs Cold backup](https://www.careerride.com/Oracle-difference-hot-and-cold-backup.aspx)</li>
   <li>[What is Warm standby](https://www.techopedia.com/definition/1036/warm-standby)</li>
 </ol>
 
