@@ -28,4 +28,11 @@
 [erification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
 [Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)
 # Agile
-![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)
+![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
+![The Agile Manifesto - 4 Agile Values Explained](https://www.youtube.com/watch?v=rf8Gi2RLKWQ)
+  <ol>
+  <li>ndividuals and interactions over processes and tools></li>
+  <li>Working software over comprehensive documentation</li>
+  <li>Customer collaboration over contract negotiation</li>
+  <li>Responding to change over following a plan</li>
+  </ol>
