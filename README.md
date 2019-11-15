@@ -3,3 +3,4 @@
 ![Pipe_and_Filter.png](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Pipe_and_Filter.png)\
 [Blackboard Architecture](https://www.cs.cmu.edu/~ModProb/MRsol4.html)\
 ![Blackboard.png](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Blackboard.png)
+![layered_architecture.png](
