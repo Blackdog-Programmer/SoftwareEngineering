@@ -44,7 +44,7 @@
   <li><a href="https://www.techopedia.com/definition/1036/warm-standby">What is Warm standby</a></li>
 </ol>
 
-[Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)
+[Coupling and Cohesion](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/)\
 [Error, Fault and Failure in Software Testing](https://www.testingexcellence.com/error-fault-failure-software-testing/)\
 [Latent Error vs Active Error](https://patientsafe.wordpress.com/2016/01/30/latent-errors-equipment/)\
 [Verification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
