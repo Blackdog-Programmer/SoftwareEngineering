@@ -32,6 +32,10 @@
 # Software Design
 
 # Testing and Verification
+[Incremental Testing](https://www.tutorialspoint.com/software_testing_dictionary/incremental_testing.htm)\
+[Top Down Integration Testing](https://www.tutorialspoint.com/software_testing_dictionary/top_down_integration_testing.htm)\
+[Bottom Up Testing](https://www.tutorialspoint.com/software_testing_dictionary/bottom_up_testing.htm)\
+[Back to Back Testing](http://www.professionalqa.com/back-to-back-testing)\
 [Project Cutover](https://www.projectmanagement.com/blog-post/24655/Project-Cutover-A-vital-step-in-Project-Go-Live-)
 
 <ol>
@@ -44,7 +48,9 @@
 [Error, Fault and Failure in Software Testing](https://www.testingexcellence.com/error-fault-failure-software-testing/)\
 [Verification and Validation](https://www.geeksforgeeks.org/software-engineering-verification-and-validation/)\
 [Black box and White Box](https://www.geeksforgeeks.org/differences-between-black-box-testing-vs-white-box-testing/)\
-[Phase Gate Process](https://en.wikipedia.org/wiki/Phase-gate_process)
+[Phase Gate Process](https://en.wikipedia.org/wiki/Phase-gate_process)\
+[Test oracle](https://en.wikipedia.org/wiki/Test_oracle), [Oracle Application Testing Suite](https://www.oracle.com/technetwork/oem/app-test/index.html)
+
 # Agile Mindset and Principles
 [The Agile Manifesto](https://www.drdobbs.com/open-source/the-agile-manifesto/184414755)\
 ![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
