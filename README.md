@@ -18,7 +18,8 @@
 # Software Architecture Process
 [System Structuring](https://www.cs.odu.edu/~price/cs451/Lectures/05design/arch/arch_htsu1.html)\
 [Control Modeling](https://www.cs.odu.edu/~price/cs451/Lectures/05design/arch/arch_htsu2.html)\
-[Modular Decomposition](https://www.cs.odu.edu/~price/cs451/Lectures/05design/arch/arch_htse2.html)
+[Modular Decomposition](https://www.cs.odu.edu/~price/cs451/Lectures/05design/arch/arch_htse2.html)\
+[Subsystem vs Module](https://www.ics.uci.edu/~redmiles/ics121-SQ99/lecture/seven/tsld015.htm)
 
 # Software Devlopment Model
 ![WaterFall_Model](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/WaterFall_Model.png)\
