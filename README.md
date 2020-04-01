@@ -83,14 +83,18 @@
   <li><a href="https://www.tutorialspoint.com/scrum/scrum_overview.htm">Agile Scrum Tutorial</a></li>
 </ul>
  
-![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
+![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)
 
 <kbd>
   <img src="https://miro.medium.com/max/1400/0*cvH1Bc3PjXcDG5oP.png">
 </kbd>
 
-[Kanban WIP Limits](https://kanbanzone.com/kanban-resources/kanban-wip-limits/)\
-![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
-![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)\
-![Lean Startup](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Lean_Startup.png)\
+[Kanban WIP Limits](https://kanbanzone.com/kanban-resources/kanban-wip-limits/)
+
+![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)
+
+![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)
+
+![Lean Startup](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Lean_Startup.png)
+
 [Agile and Lean Simlarity and Difference](https://twproject.com/blog/lean-agile-differences-similarities/)
