@@ -1,8 +1,12 @@
 # Why we need Software Engineering
 ![Soft Dev Failure](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/WhyWeNeedSoftwareEnginerring.png)
+
+
 # Requirement Analysis and Specification
 [Software requirements specification(SRS](https://en.wikipedia.org/wiki/Software_requirements_specification)\
 [How to write a good SRS for your Project](https://www.geeksforgeeks.org/how-to-write-a-good-srs-for-your-project/)
+
+
 # Software Architecture Models
 [Pipe and Filter architectures](https://www.oreilly.com/library/view/software-architecture-with/9781786468529/ch08s04.html)\
 ![Pipe_and_Filter.png](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Pipe_and_Filter.png)\
@@ -15,12 +19,14 @@
 [Event-based model](https://onlinelibrary.wiley.com/doi/10.1002/9781118732793.ch4)\
 ![Event-based model](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/The-Event-based-model.png)
 
+
 # Software Architecture Process
 [System Structuring](https://www.cs.odu.edu/~price/cs451/Lectures/05design/arch/arch_htsu1.html)\
 [Control Modeling](https://www.cs.odu.edu/~price/cs451/Lectures/05design/arch/arch_htsu2.html)\
 [Modular Decomposition](https://www.cs.odu.edu/~price/cs451/Lectures/05design/arch/arch_htse2.html)\
 [Subsystem vs Module](https://www.ics.uci.edu/~redmiles/ics121-SQ99/lecture/seven/tsld015.htm)\
 [Software Quality Attributes](http://www.qasigma.com/2008/12/software-quality-attributes.html)
+
 
 # Software Devlopment Model
 ![WaterFall_Model](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/WaterFall_Model.png)\
@@ -29,7 +35,10 @@
 ![IncrementModel](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/IncrementModel.png)\
 ![SpiralModel](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/SpiralModel.png)\
 ![UnifiedProcess](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/SoftwareDevModel/UnifiedProcess.png)
+
+
 # Software Design
+
 
 # Testing and Verification
 [Incremental Testing](https://www.tutorialspoint.com/software_testing_dictionary/incremental_testing.htm)\
@@ -52,6 +61,7 @@
 [Phase Gate Process](https://en.wikipedia.org/wiki/Phase-gate_process)\
 [Test oracle](https://en.wikipedia.org/wiki/Test_oracle), [Oracle Application Testing Suite](https://www.oracle.com/technetwork/oem/app-test/index.html)
 
+
 # Agile Mindset and Principles
 [The Agile Manifesto](https://www.drdobbs.com/open-source/the-agile-manifesto/184414755)\
 ![Agile Manifesto](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgileManifesto.png)\
@@ -67,9 +77,10 @@
  ![AgilePriciples](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgilePriciples_0.png)\
  ![AgilePriciples](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/AgilePriciples_1.png)
 
+
 # Agile Process Models
 <ul>
-  <li><a herf="https://www.tutorialspoint.com/scrum/scrum_overview.htm">Agile Scrum Tutorial</a></li>
+  <li><a href="https://www.tutorialspoint.com/scrum/scrum_overview.htm">Agile Scrum Tutorial</a></li>
 </ul>
  
 ![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
