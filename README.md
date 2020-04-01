@@ -84,6 +84,11 @@
 </ul>
  
 ![Scurm](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Scrum.png)\
+
+<kbd>
+  <img src="https://miro.medium.com/max/1400/0*cvH1Bc3PjXcDG5oP.png">
+</kbd>
+
 [Kanban WIP Limits](https://kanbanzone.com/kanban-resources/kanban-wip-limits/)\
 ![Karban Board](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/KarbanBoard.png)\
 ![Agile_and_Lean](https://github.com/Blackdog-Programmer/SoftwareEngineering/blob/master/References/Agile/Agile_and_Lean.png)\
